@@ -30,3 +30,6 @@ a {
     margin:0 auto;
     border: 1px;
 }
+body {
+    background-color: aqua;
+}
